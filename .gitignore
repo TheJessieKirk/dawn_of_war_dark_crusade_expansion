@@ -1,4 +1,5 @@
 *
+!.gitattributes
 !.gitignore
 !JXP3.module
 !JXP3_LICENSE.txt
@@ -6,4 +7,16 @@
 
 !*/
 
+!JXP3/Data/*.lua
+!JXP3/Data/Sound/*.rat
+!JXP3/Data/Sound/Music/*.fda
+!JXP3/Data/Sound/Music/*.rat
 !JXP3/Locale/English/*.ucs
+!ModTools/DataGeneric/JXP3/_default.burn
+!ModTools/DataGeneric/JXP3/Sound/*.fda
+!ModTools/DataGeneric/JXP3/Sound/*.rat
+!ModTools/DataGeneric/JXP3/Sound/Music/*.aup3
+!ModTools/DataGeneric/JXP3/Sound/Music/*.fda
+!ModTools/DataGeneric/JXP3/Sound/Music/*.rat
+!ModTools/DataGeneric/JXP3/Sound/Music/*.wav
+
