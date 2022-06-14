@@ -1,0 +1,9 @@
+*
+!.gitignore
+!JXP3.module
+!JXP3_LICENSE.txt
+!JXP3_README.md
+
+!*/
+
+!JXP3/Locale/English/*.ucs
